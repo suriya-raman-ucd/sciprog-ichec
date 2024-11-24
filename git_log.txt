@@ -1,8 +1,83 @@
+commit 376ce28f860fd04b87bf241e7fdfc8cb4b9cf0df
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 24 17:27:22 2024 +0000
+
+    added readme main file
+
+commit 3a04841916910075c84581ee32d0728275526afd
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 24 17:24:15 2024 +0000
+
+    Removed unwanted folders
+
+commit 4ae7dd5b90e4929e0c76bb998f746944eec048d6
+Merge: a637fdb 51d0929
+Author: suriya-raman-ucd <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 24 17:19:24 2024 +0000
+
+    Merge pull request #7 from suriya-raman-ucd/Practical_removing_assignment1and2
+    
+    Removed unwanted folders
+
+commit 51d0929c8c7b60b7b6269eda866dfcf87ffb143e
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 24 17:18:48 2024 +0000
+
+    Removed unwanted folders
+
+commit a637fdbdded23ddd5c8ce986df68c0b0814ef288
+Merge: 6313c66 ccbb789
+Author: suriya-raman-ucd <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 24 17:15:15 2024 +0000
+
+    Merge pull request #6 from suriya-raman-ucd/Practical_git_status_logs
+    
+    added git log and status files
+
+commit ccbb78980e95ff378974502c873fa0cd3e2ac3f3
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 24 17:13:47 2024 +0000
+
+    added git log and status files
+
+commit 6313c6631f6065fd70181e3f984a3eaee19f54d5
+Merge: 0305cd3 4060fa0
+Author: suriya-raman-ucd <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 24 17:12:42 2024 +0000
+
+    Merge pull request #5 from suriya-raman-ucd/Practical_readme
+    
+    Added readme files
+
+commit 4060fa055d2912acbed1b68965788b96356f554a
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 24 17:12:09 2024 +0000
+
+    Added readme files
+
+commit 0305cd3fa5978f5f069172c8436a26b3b8994500
+Merge: b441672 0585bed
+Author: suriya-raman-ucd <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 24 16:23:16 2024 +0000
+
+    Merge pull request #4 from suriya-raman-ucd/Practical9
+    
+    Practical 9 Added
+
 commit 0585bed3bee3072f24fd647324ce47607682e2d2
 Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
 Date:   Sun Nov 24 16:20:37 2024 +0000
 
     Practical 9 Added
+
+commit b4416728bb626590f8fc00678f11f5b51212a51a
+Merge: 351b9c5 94dac11
+Author: suriya-raman-ucd <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sat Nov 23 18:23:55 2024 +0000
+
+    Merge pull request #3 from suriya-raman-ucd/Practical_8
+    
+    Practical 8 GCD added
 
 commit 94dac11d2a8553af3824db89078e94eb5f5d228c
 Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
@@ -10,11 +85,29 @@ Date:   Sat Nov 23 18:17:53 2024 +0000
 
     Practical 8 GCD added
 
+commit 351b9c5ffc1dc30e618eef812d15cc0a5f65960b
+Merge: 586ade7 2b70456
+Author: suriya-raman-ucd <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Tue Nov 12 01:29:06 2024 +0000
+
+    Merge pull request #2 from suriya-raman-ucd/Practical7
+    
+    Practical 7 added
+
 commit 2b704569396c00de959a0b342f92bda5399b4007
 Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
 Date:   Tue Nov 12 01:28:03 2024 +0000
 
     Practical 7 added
+
+commit 586ade7936e2c86ba32c343bd1d2243bd98de1a2
+Merge: aca871a fa9e110
+Author: suriya-raman-ucd <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 3 15:48:51 2024 +0000
+
+    Merge pull request #1 from suriya-raman-ucd/Practical6
+    
+    Practical6
 
 commit fa9e110a46f539a477a6fad72c5a9d0ad2a32493
 Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
