@@ -1,0 +1,72 @@
+commit 0585bed3bee3072f24fd647324ce47607682e2d2
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 24 16:20:37 2024 +0000
+
+    Practical 9 Added
+
+commit 94dac11d2a8553af3824db89078e94eb5f5d228c
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sat Nov 23 18:17:53 2024 +0000
+
+    Practical 8 GCD added
+
+commit 2b704569396c00de959a0b342f92bda5399b4007
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Tue Nov 12 01:28:03 2024 +0000
+
+    Practical 7 added
+
+commit fa9e110a46f539a477a6fad72c5a9d0ad2a32493
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 3 15:47:34 2024 +0000
+
+    Pushed Practical 6
+
+commit 1c6b14c2a25a52369c464e7c72999b031e7a9b33
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 3 15:46:57 2024 +0000
+
+    Pushed Practical 5
+
+commit 514c97d93694c37e533b0e0b5dddb7272dd255c1
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 3 15:46:17 2024 +0000
+
+    Pushed Practical 4
+
+commit 7a765edeabf20c28b28a1e6a94351e12fa8f1a5b
+Merge: dcc1d0b 5e9cc99
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 3 15:42:02 2024 +0000
+
+    Merge branch 'Practical2' into Practical3
+
+commit 5e9cc998b053b9d8f2be9683b719c52db01d1401
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 3 15:40:55 2024 +0000
+
+    Pushed Practical 2
+
+commit dcc1d0bb31a896feea71c9c9f56f8c921af67b7e
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sun Nov 3 15:21:51 2024 +0000
+
+    Pushing Practical 3
+
+commit d6f352cfdb24c1d50be6e4e89b73a28d6e5acd49
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sat Nov 2 18:53:20 2024 +0000
+
+    Practical 1 changes pushed
+
+commit aca871aa7303e1ec35031b6e0093128de6f68203
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sat Nov 2 16:11:41 2024 +0000
+
+    My Second Commit
+
+commit 6d556e7424f61dd5fb4e69059ed6c12c83e521a7
+Author: Suriya Raman <suriya.soundararajansundar@ucdconnect.ie>
+Date:   Sat Nov 2 15:08:16 2024 +0000
+
+    first commit (Adding a readme file)
